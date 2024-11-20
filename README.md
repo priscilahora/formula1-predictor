@@ -1,1 +1,1 @@
-# predicao-formula1
+# formula1-predictor
